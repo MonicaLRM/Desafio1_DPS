@@ -1,0 +1,64 @@
+{
+    "Peliculas": [
+        {
+            "Nombre": "Inception",
+            "Género": "Ciencia Ficción",
+            "Año de Lanzamiento": 2010,
+            "Precio": 12.99
+        },
+        {
+            "Nombre": "Batman: El Caballero de la Noche",
+            "Género": "Acción",
+            "Año de Lanzamiento": 2008,
+            "Precio": 10.99
+        },
+        {
+            "Nombre": "Barbie",
+            "Género": "Comedia",
+            "Año de Lanzamiento": 2023,
+            "Precio": 12.99
+        },
+        {
+            "Nombre": "Intensamente",
+            "Género": "Familiar",
+            "Año de Lanzamiento": 2015,
+            "Precio": 8.99
+        },
+        {
+            "Nombre": "El padrino",
+            "Género": "Crimen",
+            "Año de Lanzamiento": 1972,
+            "Precio": 11.99
+        },
+        {
+            "Nombre": "Matrix",
+            "Género": "Ciencia Ficción",
+            "Año de Lanzamiento": 1999,
+            "Precio": 10.99
+        },
+        {
+            "Nombre": "Interstellar",
+            "Género": "Ciencia Ficción",
+            "Año de Lanzamiento": 2014,
+            "Precio": 14.99
+        },
+        {
+            "Nombre": "Yo antes de ti",
+            "Género": "Drama",
+            "Año de Lanzamiento": 2015,
+            "Precio": 9.99
+        },
+        {
+            "Nombre": "El club de la pelea",
+            "Género": "Drama",
+            "Año de Lanzamiento": 1999,
+            "Precio": 8.99
+        },
+        {
+            "Nombre": "Gladiador",
+            "Género": "Acción",
+            "Año de Lanzamiento": 2000,
+            "Precio": 9.99
+        }
+    ]
+}
